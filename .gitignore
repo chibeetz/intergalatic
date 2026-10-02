@@ -1,0 +1,21 @@
+# PlatformIO & Arduino Build Outputs
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+*.hex
+*.elf
+*.bin
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Python Verification Suite Outputs
+__pycache__/
+*.pyc
+*.wav
+*.png
