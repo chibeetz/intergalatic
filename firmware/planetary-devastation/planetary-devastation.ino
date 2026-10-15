@@ -299,7 +299,7 @@ void processGravityDrift(float peak1, int lfoVal) {
   Serial.print(lfoRateHz);
   Serial.println(" Hz");
 
-  delay(10);  // Small loop pacing
+  delay(10); 
 }
 
 void onButtonPress(int _buttonNum) {
