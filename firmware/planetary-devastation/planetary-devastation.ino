@@ -82,13 +82,13 @@ int totalButtons = 5;
 int wav1Pin = A17;
 int ringModwav1 = 0;
 
-int wav2Pin = A10;
+int wav2Pin = A12;
 int ringModcarrier = 0;
 
 int lpfPin = A16;
 int lpf_val = 0;
 
-int lfoPin = A11;
+int lfoPin = A13;
 int lfoVal = 0;
 
 int potControl[2] = { wav2Pin, wav1Pin };
